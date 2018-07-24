@@ -1,0 +1,12 @@
+
+\.vscode/\.ropeproject/
+
+*.jpg
+
+frames/
+
+*.pdf
+
+*.zip
+
+*.db
